@@ -1,6 +1,6 @@
 # Knowing When Your LLM Is Wrong
 
-Companion code for the blog post "Knowing When Your LLM Is Wrong."
+Companion code for the blog post [Knowing When Your LLM Is Wrong](https://dev.to/jocerfranquiz/knowing-when-your-llm-is-wrong-a-field-guide-for-agentic-systems-3gif).
 
 A single, self-contained script that walks through the full evaluation
 pipeline for a binary routing agent:
